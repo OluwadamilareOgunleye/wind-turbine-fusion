@@ -1,0 +1,29 @@
+# Large datasets
+data/raw/
+data/processed/
+data/features/
+
+
+
+
+
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+
+
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML
+models/*.pkl
+models/*.joblib
+models/*.pt
+models/*.pth
+models/*.h5
